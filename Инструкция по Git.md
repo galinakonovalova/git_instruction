@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png)
+
 ## Инструкция по установке Git
 Установим сам Git. Для Windows проходим по адресу https://git-scm.com/download/win, скачиваем и устанавливаем.
 
@@ -127,7 +129,6 @@ git clean
 ```
 
 Команда ```git clean``` используется для удаления мусора из рабочей директории. Это могут быть результаты сборки проекта или файлы конфликтов слияний.  
-git clean для отмены изменений, не подтвержденных коммитами
 
 ```
 git stash
