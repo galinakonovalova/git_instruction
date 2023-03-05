@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png)
+![](logo.png)
 
 ## Инструкция по установке Git
 Установим сам Git. Для Windows проходим по адресу https://git-scm.com/download/win, скачиваем и устанавливаем.
